@@ -1,2 +1,3 @@
 theme: jekyll-theme-hacker
-layout:
+layout: 
+- jekyll-avatar
