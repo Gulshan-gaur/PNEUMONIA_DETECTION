@@ -10,3 +10,6 @@ Data provided by RSNA , links are below
 
 [testing](https://drive.google.com/open?id=1nvgwdmalj5w_4ahivwx43tuqsonepj1n)  
 
+ clone this repository
+- open ```sudohack_usage.txt``` for how to run.
+- open ```sudohack_presentation.pptx``` for overview of project/hack.
