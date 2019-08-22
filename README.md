@@ -1,7 +1,7 @@
 ## PNEUMONIA_DETECTION
 Pneumoniua detection by CNN model with the help of keras. 
-In which it takes the chest X-ray and take lung opacity as feature
-for predicting that the patient is pneumonic or not
+In which it takes the chest X-ray and take lung opacity as feature vector 
+for predicting three classes Normal, No Lung Opacity / Not Normal, Lung Opacity
 
 
 Data provided by RSNA , links are below
@@ -12,4 +12,4 @@ Data provided by RSNA , links are below
 
  clone this repository
 - open ```usage.rtf``` for how to run.
-- open ```Pneumonia.pptx``` for overview of project/hack.
+- open ```Pneumonia.pptx``` for overview of project.
