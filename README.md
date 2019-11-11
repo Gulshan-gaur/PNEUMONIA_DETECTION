@@ -11,5 +11,4 @@ In which it takes the chest X-ray and take lung opacity as feature vector
 
 #### My work includes self laid neural network which was repeatedly tuned for one of the best hyperparameters and used variety of utility function of keras like callbacks for learning rate reduction and checkpointing. Other metrics like precision , recall and f1 score using confusion matrix were taken off special care. The other part included a brief introduction of transfer learning via Xception 
 
-### Data provided by RSNA 
-[train](https://drive.google.com/open?id=1anjwft3kynzobdrq3nzvptbftpxfos9q)
+### Data provided by RSNA
